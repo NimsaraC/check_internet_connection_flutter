@@ -32,7 +32,7 @@ This project uses the following dependency:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NimsaraC/check_internet_connection_flutter.git
    ```
 2. Navigate to the project directory:
    ```bash
