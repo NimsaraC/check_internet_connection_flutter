@@ -61,10 +61,6 @@ The app uses a `StreamSubscription` to listen for changes in the internet connec
   - The subscription is canceled in `dispose()` to prevent memory leaks. [See code here](https://github.com/NimsaraC/check_internet_connection_flutter/blob/main/lib/main.dart#L50-L53).
 - **UI**: Displays a Wi-Fi icon and text based on the `isConnected` state. [See code here](https://github.com/NimsaraC/check_internet_connection_flutter/blob/main/lib/main.dart#L57-L73).
 
-## Screenshots
-
-_(Optional: You can add screenshots of the app showing "Connected" and "Disconnected" states here by uploading images to the repo and linking them.)_
-
 ## Usage
 
 - Launch the app on your device.
